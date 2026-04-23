@@ -1,0 +1,10 @@
+{
+  "/sady_opillia/page": "app/sady_opillia/page.js",
+  "/sady_opillia/account/page": "app/sady_opillia/account/page.js",
+  "/sady_opillia/products/[type]/page": "app/sady_opillia/products/[type]/page.js",
+  "/sady_opillia/adminpanel/page": "app/sady_opillia/adminpanel/page.js",
+  "/sady_opillia/adminpanel/login/page": "app/sady_opillia/adminpanel/login/page.js",
+  "/sady_opillia/forgot-password/page": "app/sady_opillia/forgot-password/page.js",
+  "/sady_opillia/reset-password/page": "app/sady_opillia/reset-password/page.js",
+  "/sady_opillia/login/page": "app/sady_opillia/login/page.js"
+}

@@ -1,0 +1,80 @@
+{
+  "pages": {
+    "/sady_opillia/adminpanel/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sady_opillia/adminpanel/page.js"
+    ],
+    "/sady_opillia/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/sady_opillia/layout.css",
+      "static/chunks/app/sady_opillia/layout.js"
+    ],
+    "/sady_opillia/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sady_opillia/page.js"
+    ],
+    "/sady_opillia/products/[type]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sady_opillia/products/[type]/page.js"
+    ],
+    "/sady_opillia/products/[type]/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sady_opillia/products/[type]/[id]/page.js"
+    ],
+    "/sady_opillia/order/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sady_opillia/order/page.js"
+    ],
+    "/sady_opillia/gallery/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sady_opillia/gallery/page.js"
+    ],
+    "/sady_opillia/about/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sady_opillia/about/page.js"
+    ],
+    "/sady_opillia/login/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sady_opillia/login/page.js"
+    ],
+    "/sady_opillia/register/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sady_opillia/register/page.js"
+    ],
+    "/sady_opillia/account/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sady_opillia/account/page.js"
+    ],
+    "/sady_opillia/account/edit/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sady_opillia/account/edit/page.js"
+    ],
+    "/sady_opillia/adminpanel/login/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sady_opillia/adminpanel/login/page.js"
+    ],
+    "/sady_opillia/forgot-password/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sady_opillia/forgot-password/page.js"
+    ],
+    "/sady_opillia/reset-password/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sady_opillia/reset-password/page.js"
+    ]
+  }
+}
